@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"some",
+				"somePromise"
+			],
+			[
+				"cre",
+				"createAPromise"
+			],
+			[
+				"ge",
+				"getHTML2"
+			],
+			[
+				"jq",
+				"jqXHR"
+			],
+			[
+				"jquery",
+				"jquerypromises"
+			],
+			[
+				"response",
+				"response1"
+			],
+			[
+				"Ge",
+				"getHTML1"
+			],
+			[
+				"getHTML",
+				"getHTML2"
+			],
+			[
+				"get",
+				"getHTML"
+			],
+			[
+				"re",
+				"regexFilter"
+			],
+			[
+				"Reg",
+				"RegExp"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"som",
+				"somePerson"
+			],
+			[
+				"seria",
+				"serialize"
+			],
+			[
+				"Dat",
+				"Date"
+			],
+			[
+				"m",
+				"multiply4"
+			],
+			[
+				"mul",
+				"multiply3"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"errorC",
+				"asyncFnWithErrorCallback"
+			],
+			[
+				"asy",
+				"asynchronous"
+			],
+			[
+				"ha",
+				"handleError"
+			],
+			[
+				"do",
+				"doThingsWithData"
+			],
+			[
+				"h",
+				"hError"
+			],
+			[
+				"han",
+				"handleError"
+			],
+			[
+				"so",
+				"somePage"
+			],
+			[
+				"g",
+				"getDataAsync"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"as",
+				"asyncFn"
+			],
+			[
+				"Ma",
+				"Mammal"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"wr",
+				"wrapped"
+			],
+			[
+				"wra",
+				"wrapElements"
+			],
+			[
+				"c",
+				"currentDay"
+			],
+			[
+				"pr",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Indirect Function Invocation/indirectfunctioninvocation.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/readme.md",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/jQuery Deferreds and Promises/jquerydeferredsandpromises.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Custom jQuery Events/customjqueryevents2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Custom jQuery Events/customjqueryevents1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/jQuery Deferreds and Promises/jquerydeferredsandpromises.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Indirect Function Invocation/indirectfunctioninvocation.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/jQuery Promises/jquerypromises.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/jQuery Promises/jquery.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/jQuery Promises/jquerypromises.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/jQuery Promises/jquerypromises1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Object Creation/objectcreation.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Prototypes/prototypes1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Prototypes/prototypes.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Prototypes/prototypes2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Prototypes/prototypes3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Augmenting Types/augmentingtypes1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Hoisting/hoisting1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Hoisting/hoisting.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Hoisting/hoisting2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Hoisting/hoisting3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Static Functions/staticfunctions.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Object Creation/objectcreation.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/JavaScript Concurrency/async1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/JavaScript Concurrency/async2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Function Definition and Terminology/functionterminology.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/JSON/JSON.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/JSON/JSON1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Closure/closures1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Closure/closures2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Closure/closures.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Delete operator/deleteoperator.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Function Definition and Terminology/functionterminology.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Primitives/primitives.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Closure/closures3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE4.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE5.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/IIFE6.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/JS-Examples.sublime-workspace",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/ReadMe.txt",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/immediatlyinvokedfunctionexpressions1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/immediatlyinvokedfunctionexpressions.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Function Terminology/functionterminology.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Function Terminology/functionterminology.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/immediatlyinvokedfunctionexpressions2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediatly Invoked Function Expressions/immediatlyinvokedfunctionexpressions3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatlyinvokedfunctionexpressions.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Closure/closures.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Comparison Operators/comparison.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Classical Inheritance/classicalinheritance.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatlyinvokedfunctionexpressions1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatlyinvokedfunctionexpressions2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatlyinvokedfunctionexpressions3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Delete operator/deleteoperator.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/In operator/inoperator.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/In operator/inoperator.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Instanceof operator/instanceof.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Instanceof operator/instanceof.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Comparison Operators/comparison.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Augmenting Types/augmentingtypes.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatefunctions.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/JavaScript Concurrency/async.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Primitives/primitives.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Static Functions/staticfunctions.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Custom jQuery Events/customjqueryevents.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatefunctions2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatefunctions1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Fundamentals/Immediate Functions/immediatefunctions3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Classical Inheritance/classicalinheritance.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Custom Object Events/customobjectjqueryevents.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Going Further/Custom Object Events/jquery.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Classical Inheritance/classicalinheritance.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Classical Inheritance/classicalinheritance.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Async pitfalls/async.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Custom Object Events/customobjectjqueryevents1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Custom Object Events/customobjectjqueryevents2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Async pitfalls/async2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Async pitfalls/async1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Async pitfalls/async2",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Global Custom jQuery Events/globalcustomjqueryevents.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Beyond Fundamentals/Custom Object Events/customobjectjqueryevents.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Immediate Functions/immediatefunctions.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Global Custom jQuery Events/jquery.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Async pitfalls/async.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Custom Object Events/customobjectjqueryevents.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Global Custom jQuery Events/globalcustomjqueryevents.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Custom Object Events/customobjectjqueryevents2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Custom Object Events/customobjectjqueryevents.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Async pitfalls/async2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Async pitfalls/async.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Global Custom jQuery Events/globalcustomjqueryevents.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Classical Inheritance/classicalinheritance.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Classical Inheritance/classicalinheritance.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Classical Inheritance/class.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Static Functions/staticfunctions.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Augmenting Types/augmentingtypes1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Static Functions/staticfunctions.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Immediate Functions/immediatefunctions1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Inherit using the Class library/classicalinheritance.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Inherit using the Class library/classicalinheritance.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Inherit using the Class library/class.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Prototypes/prototypes1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Prototypes/prototypes2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Prototypes/prototypes3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Closure/closures.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Hoisting/hoisting1.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/examples.sublime-project",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/examples.sublime-workspace",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/blank.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/blank.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Augmenting Types/augmentingtypes.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Comparison Operators/comparison.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Comparison Operators/comparison.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Object Creation/objectcreation.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Immediate Functions/immediatefunctions.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Immediate Functions/immediatefunctions2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Immediate Functions/immediatefunctions3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Object Creation/objectcreation.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Prototypes/prototypes.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Hoisting/hoisting.html",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Hoisting/hoisting2.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Hoisting/hoisting3.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Return A Function/returnafunction.js",
+		"/D/cloud/Dropbox/Presentations/Some JavaScript Fundamentals/Examples/Indirect Function Invocation/indirectfunctioninvocation.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jquerypromises.html",
+			"getData",
+			"getDataAsyncDone",
+			"getDataAsync",
+			"doOtherThing",
+			" </",
+			"Operator",
+			"scrollbar",
+			"book"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jquerydeferredsandpromises.html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 169.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"coma",
+				"Comparison Operators/comparison.html"
+			],
+			[
+				"conten",
+				"Source/BlogEngine/BlogEngine.NET/editors/tiny_mce_3_5_7/themes/simple/skins/o2k7/content.css"
+			],
+			[
+				"global",
+				"/D/WATK/Labs/ExploringStorage-VS2012/Source/Ex1-WorkingWithTables/End/RdChat_WebRole/Global.asax.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}
